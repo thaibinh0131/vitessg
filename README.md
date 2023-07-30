@@ -80,15 +80,15 @@ Inspired by [Vitesse](https://github.com/antfu/vitesse) ❤
 ## Try it now!
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/zynth17/vitailse/generate).
+[Create a repo from this template on GitHub](https://github.com/thaibinh0131/vitessg.git).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit zynth17/vitailse my-vitailse-app
-cd my-vitailse-app
+npx degit https://github.com/thaibinh0131/vitessg.git
+cd vitessg
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
 
