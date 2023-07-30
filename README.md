@@ -1,6 +1,3 @@
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/45350572/138070856-731c849a-466b-41a2-b39d-c5b5e76e94fa.png' alt='Vitailse - Opinionated Vite Starter Template with TailwindCSS' width='300'/>
-</p>
 
 Opinionated Vite starter template with [TailwindCSS](https://tailwindcss.com/) 
 
