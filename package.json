@@ -1,24 +1,22 @@
 {
-	"name": "@zynth/vitailse",
+	"name": "@thaibinh0131/vitessg",
 	"description": "Vite starter template with TailwindCSS",
 	"version": "0.1.0",
 	"main": "src/main.ts",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/zynth17/vitailse.git"
+		"url": "git+https://github.com/thaibinh0131/vitessg.git"
 	},
 	"keywords": [
-		"vitailse",
 		"tailwindcss",
 		"vite",
 		"vitesse"
 	],
-	"author": "Christopher Reeeve",
+	"author": "Binh",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/zynth17/vitailse/issues"
+		"url": "https://github.com/thaibinh0131/vitessg/issues"
 	},
-	"homepage": "https://github.com/zynth17/vitailse#readme",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite-ssg build",
